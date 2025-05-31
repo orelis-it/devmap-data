@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "Created orelis org on GitHub",
-    "description": "",
+    "description": [],
     "category": "tools",
     "timeSpent": "N/A",
     "date": "31/05/2025"
@@ -10,9 +10,9 @@
   {
     "id": "2",
     "title": "Created devmap website",
-    "description": "",
+    "description": []
     "category": "tools",
-    "timeSpent": "1 hour",
+    "timeSpent": "2 hours",
     "date": "31/05/2025"
   }
 ]
