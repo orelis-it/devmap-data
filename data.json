@@ -16,5 +16,18 @@
     "timeSpent": "2 hours",
     "date": "31/05/2025",
     "author": "atom"
+  },
+  {
+    "id": "3",
+    "title": "Created web panel",
+    "description": [
+      "+ setup",
+      "+ main structure",
+      "+ design of pages: dashboard, users"
+    ],
+    "category": "tools",
+    "timeSpent": "5 hours",
+    "date": "17/07/2025",
+    "author": "atom"
   }
 ]
