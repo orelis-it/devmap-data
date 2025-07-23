@@ -29,5 +29,16 @@
     "timeSpent": "5 hours",
     "date": "17/07/2025",
     "author": "atom"
+  },
+  {
+    "id": "4",
+    "title": "Worked on web panel",
+    "description": [
+      "+ structure of live logs page and some functionality"
+    ],
+    "category": "website",
+    "timeSpent": "3 hours",
+    "date": "23/07/2025",
+    "author": "atom"
   }
 ]
